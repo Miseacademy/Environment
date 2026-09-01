@@ -13,8 +13,8 @@ Click the **Code and open Codespaces**
 **Usage Limits:**
 
 1. Maximum **60 hours per month** per student.  
-2. GitHub Copilot: Maximum **2000 prompts per month**.  
-3. Agenti AI (GitHub Copilot integration): Maximum **50 prompts per month**.  
+2. Generative AI : Maximum **2000 prompts per month**.  
+3. Agentic AI    : Maximum **50 prompts per month**.  
 
 ---
 
