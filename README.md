@@ -3,6 +3,8 @@
 This repository is designed for **practice exercises** in your DevOps course. You can open this repository in **GitHub Codespaces** and work on it freely.
 
 ---
+## First Fork the Repository
+
 
 ## 1️⃣ Open the GitHub Codespaces
 
