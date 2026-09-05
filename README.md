@@ -9,6 +9,8 @@ This repository is designed for **practice exercises** in your DevOps course. Yo
 ## 1️⃣ Open the GitHub Codespaces
 
 Click the **Code and open Codespaces**
+<img width="400" height="423" alt="image" src="https://github.com/user-attachments/assets/1062ee2a-332f-496b-944f-0c2d74bdf6ca" />
+
 
 > Each student gets their **own Codespace instance**, so your changes will not affect other students.
 
