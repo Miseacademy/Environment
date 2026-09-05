@@ -3,6 +3,8 @@
 This repository is designed for **practice exercises** in your DevOps course. You can open this repository in **GitHub Codespaces** and work on it freely.
 
 ---
+## 1️⃣ First Create New Repository with Template
+<img width="800" height="338" alt="image" src="https://github.com/user-attachments/assets/01a080ab-8503-4323-a9c5-49ce9d01b3e2" />
 
 ## 1️⃣ Open the GitHub Codespaces
 
