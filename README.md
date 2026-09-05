@@ -3,9 +3,6 @@
 This repository is designed for **practice exercises** in your DevOps course. You can open this repository in **GitHub Codespaces** and work on it freely.
 
 ---
-## 1️⃣ First Fork the Repository
-<img width="1159" height="335" alt="image" src="https://github.com/user-attachments/assets/5c67749d-ab93-4f38-aeab-76101f5df7e7" />
-
 
 ## 1️⃣ Open the GitHub Codespaces
 
